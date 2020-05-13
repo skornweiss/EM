@@ -34,6 +34,13 @@ Template
   - [Treatments](#treatments)
   - [Disposition](#disposition-1)
   - [ECG Findings](#ecg-findings)
+- [Hypokalemia](#hypokalemia)
+  - [Resources](#resources-2)
+  - [Signs/symptoms](#signssymptoms-2)
+  - [Causes](#causes-2)
+  - [Treatments](#treatments-1)
+  - [Disposition](#disposition-2)
+  - [ECG Findings](#ecg-findings-1)
 
 # Hyponatremia
 ## Resources
@@ -49,7 +56,7 @@ Template
 - seizures, coma
   
 ## Causes
-- Lab/measurement problem - (pseudohypnoatremia) - lipemia (shouldn't happen with modern labs)
+- Spurious - (pseudohypnoatremia) - lipemia (shouldn't happen with modern labs)
 - Water shifts from cells to serum (osmotic pressure) - hyperglycemia
 - Can't pee out water - heart/liver/renal failure, endocrine (SIADH, hypothyroid)
 - Drinking too much water - exercise induced, psychogenic polydypsia
@@ -78,6 +85,7 @@ Template
 - Admit: acute OR sodium < 120 meq/l OR symptomatic
 
 # Hyperkalemia
+
 ## Resources
 [LITFL Review - ECG Examples](https://litfl.com/hyperkalaemia-ecg-library/)
 
@@ -88,6 +96,7 @@ Template
 - weakness
   
 ## Causes
+- Spurious - long tourniquet time, hemolysis
 - Moves out of cells - rhabdo, DKA (other acidosis), hyperkalemic periodic paralysis
 - Taking too much - supplements
 - Can't pee it out - renal failure, ace-inhibitor +/- [trimethoprim](https://www.ncbi.nlm.nih.gov/pubmed/8328738), K+ sparing diuretics, adrenal insufficiency
@@ -113,3 +122,42 @@ Template
 - Junctional Bradycardia - no P waves, Rate 40-60. QRS and T look like mirror images
 - Vfib/Vtach
 - Sine Wave
+
+
+
+# Hypokalemia
+
+## Resources
+[LITFL HypoK](https://litfl.com/hypokalaemia/)
+[Stephen Smith ECG Blog](https://hqmeded-ecg.blogspot.com/2019/05/potassium-and-magnesium-how-low-is-too.html)
+
+## Signs/symptoms
+- myalgias
+- cramping, spasms
+- weakness
+- paralysis
+  
+## Causes
+- Not taking enough - malnutrition
+- Shifting - unusual (alkalosis, hyperinsulinemia, b-agonist), hypokalemic periodic paralysis
+- Peeing out too much - diuretics (new thiazide), hypomagnesemia, hyperaldosteronism (cushing's)
+- Pooping/Vomiting it out - diarrhea, vomiting
+  
+## Treatments
+- Repletion - oral solution, pills, IV
+- 10 meq either oral or IV will increase serum concentration by 0.1 meq/l
+  - i.e. if serum level is 3.0 meq/l, giving 10 meq will increase serum concentration to 3.1 meq/l
+- Also check and replete magnesium if needed
+- Stop potassium wasting drugs (diuretics)
+
+## Disposition
+- Discharge: if asymptomatic AND K+ > 2.5 AND no ECG changes AND able to replete at home
+- Admit: if symptomatic OR K+ < 2.5 OR ECG changes OR not able to replete at home
+  
+## ECG Findings
+- U waves
+- T wave flattening
+- Down-up T wave morphology
+- ST depression
+- Long QT
+- Torsades
