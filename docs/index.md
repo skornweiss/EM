@@ -1,1 +1,1 @@
-[electrolytes](docs/teaching/electrolytes.md)
+[electrolytes](teaching/electrolytes.md)
