@@ -79,8 +79,37 @@ Template
 
 # Hyperkalemia
 ## Resources
+[LITFL Review - ECG Examples](https://litfl.com/hyperkalaemia-ecg-library/)
+
 ## Signs/symptoms
+- muscle weakness, ascending
+- palpitations
+- fatigue
+- weakness
+  
 ## Causes
+- Moves out of cells - rhabdo, DKA (other acidosis), hyperkalemic periodic paralysis
+- Taking too much - supplements
+- Can't pee it out - renal failure, ace-inhibitor +/- [trimethoprim](https://www.ncbi.nlm.nih.gov/pubmed/8328738), K+ sparing diuretics, adrenal insufficiency
+  
 ## Treatments
+- Mild - asymptomatic, no ECG changes, usually K+ < 6.0
+  - treat underlying cause
+  - e.g. - remove supplement/offending medication, hydration
+
+- Severe - symptomatic, ECG changes, K+ > 6.0
+  - Stabilize - Calcium Gluconate 1 gram IV
+  - Dilute - IVF
+  - Shift - insulin, D50, albuterol, bicarbonate
+  - Remove - diuretics, dialysis, kayexelate (SPS - sodium polystyrene sulfonate), lokelma (sodium zirconium cyclosilicate)
+  
 ## Disposition
+- Discharge: <6 AND asymptomatic AND no ECG changes AND underlying cause is known AND problem is fixed
+- Admit: >= 6 or ECG changes or underlying cause not known/not fixed
+  
 ## ECG Findings
+- Peaked T waves - symmetric, pointy, sometimes tall
+- Prolonged intervals - everything gets spaced out, QRS is widened, QT prolonged, T wave broad based
+- Junctional Bradycardia - no P waves, Rate 40-60. QRS and T look like mirror images
+- Vfib/Vtach
+- Sine Wave
