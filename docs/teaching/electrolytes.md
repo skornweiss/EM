@@ -1,6 +1,5 @@
-electrolytes.md
-
-<!-- 
+<!-- electrolytes.md
+ 
 Topics
 ---
 # Hyponatremia
@@ -20,8 +19,6 @@ Template
 ## Treatments
 ## Disposition
 ## ECG Findings -->
-
-[Download Docx](electrolytes.docx)
 
 - [Hyponatremia](#hyponatremia)
   - [Resources](#resources)
