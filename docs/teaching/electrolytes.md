@@ -20,6 +20,8 @@ Template
 ## Disposition
 ## ECG Findings -->
 
+<a href="javascript:if(window.print)window.print()">Print</a>
+
 - [Hyponatremia](#hyponatremia)
   - [Resources](#resources)
   - [Signs/symptoms](#signssymptoms)
