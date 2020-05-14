@@ -45,8 +45,8 @@ Template
 
 # Hyponatremia
 ## Resources
-[EM Cases](https://emergencymedicinecases.com/episode-60-emergency-management-hyponatremia/)
-[MD Calc](https://www.mdcalc.com/sodium-correction-rate-hyponatremia-hypernatremia)
+- [EM Cases](https://emergencymedicinecases.com/episode-60-emergency-management-hyponatremia/)
+- [MD Calc](https://www.mdcalc.com/sodium-correction-rate-hyponatremia-hypernatremia)
 
 ## Signs/symptoms
 - muscular weakness
@@ -129,8 +129,8 @@ Template
 # Hypokalemia
 
 ## Resources
-[LITFL HypoK](https://litfl.com/hypokalaemia/)
-[Stephen Smith ECG Blog](https://hqmeded-ecg.blogspot.com/2019/05/potassium-and-magnesium-how-low-is-too.html)
+- [LITFL HypoK](https://litfl.com/hypokalaemia/)
+- [Stephen Smith ECG Blog](https://hqmeded-ecg.blogspot.com/2019/05/potassium-and-magnesium-how-low-is-too.html)
 
 ## Signs/symptoms
 - myalgias
