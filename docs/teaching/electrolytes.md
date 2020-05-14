@@ -21,7 +21,7 @@ Template
 ## Disposition
 ## ECG Findings -->
 
-[Download PDF](electrolytes.pdf)
+[Download Docx](electrolytes.docx)
 
 - [Hyponatremia](#hyponatremia)
   - [Resources](#resources)
